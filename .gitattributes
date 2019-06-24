@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Implementación de un servicio REST en Spring para publicar un JSON
